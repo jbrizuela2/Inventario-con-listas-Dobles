@@ -1,0 +1,27 @@
+c:\users\20120511\documents\Inventario\Inventario\bin\Debug\Inventario.exe.config
+c:\users\20120511\documents\Inventario\Inventario\bin\Debug\Inventario.exe
+c:\users\20120511\documents\Inventario\Inventario\bin\Debug\Inventario.pdb
+c:\users\20120511\documents\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+c:\users\20120511\documents\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+c:\users\20120511\documents\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+c:\users\20120511\documents\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+c:\users\20120511\documents\Inventario\Inventario\obj\Debug\Inventario.exe
+c:\users\20120511\documents\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\madero\Documents\Visual Studio 2015\Projects\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\madero\Documents\Visual Studio 2015\Projects\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\madero\Documents\Visual Studio 2015\Projects\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\madero\Documents\Visual Studio 2015\Projects\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\madero\Documents\Visual Studio 2015\Projects\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\madero\Documents\Visual Studio 2015\Projects\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\madero\Documents\Visual Studio 2015\Projects\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\madero\Documents\Visual Studio 2015\Projects\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\madero\Documents\Visual Studio 2015\Projects\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\madero\Downloads\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\madero\Downloads\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\madero\Downloads\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\madero\Downloads\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\madero\Downloads\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\madero\Downloads\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\madero\Downloads\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\madero\Downloads\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\madero\Downloads\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
